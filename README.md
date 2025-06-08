@@ -33,7 +33,7 @@ this repo is a patched-up, vs2022-ready version of cai1hsu's [re3/miami branch](
 
 some binary assets (dlls & exe) are required at runtime. download the cache from:
 
-> **cache link:** `https://drive.google.com/file/d/1CbVbk8sPax5TTrIFZVCQVbZHBl2mTywV/view?usp=sharing`
+> **cache link:** [google drive cache](https://drive.google.com/file/d/1CbVbk8sPax5TTrIFZVCQVbZHBl2mTywV/view?usp=sharing)
 
 and place its contents in the **same folder** as the generated `.exe`:
 
