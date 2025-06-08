@@ -1,0 +1,173 @@
+﻿  anim.cpp
+  base.cpp
+  bmp.cpp
+  camera.cpp
+  charset.cpp
+  clump.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/charset.cpp")
+  
+  d3d.cpp
+  d3d8.cpp
+  d3d8matfx.cpp
+  d3d8render.cpp
+  d3d8skin.cpp
+  d3d9.cpp
+  d3d9matfx.cpp
+  d3d9render.cpp
+  d3d9skin.cpp
+  d3ddevice.cpp
+  d3dimmed.cpp
+  d3drender.cpp
+  xbox.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\d3d\xbox.cpp(542,4): warning C4838: Преобразование из "rw::xbox::<unnamed-enum-D3DFMT_UNKNOWN>" в "rw::uint32" требует сужающего преобразования.
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\d3d\xbox.cpp(543,4): warning C4838: Преобразование из "rw::xbox::<unnamed-enum-D3DFMT_UNKNOWN>" в "rw::uint32" требует сужающего преобразования.
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\d3d\xbox.cpp(544,4): warning C4838: Преобразование из "rw::xbox::<unnamed-enum-D3DFMT_UNKNOWN>" в "rw::uint32" требует сужающего преобразования.
+  xboxmatfx.cpp
+  Создание кода...
+  Компиляция...
+  xboxskin.cpp
+  xboxvfmt.cpp
+  engine.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/engine.cpp")
+  
+  error.cpp
+  frame.cpp
+  geometry.cpp
+  geoplg.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/geoplg.cpp")
+  
+  gl3.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3.cpp")
+  
+  gl3device.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3device.cpp")
+  
+  gl3immed.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3immed.cpp")
+  
+  gl3matfx.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3matfx.cpp")
+  
+  gl3pipe.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3pipe.cpp")
+  
+  gl3raster.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3raster.cpp")
+  
+  gl3render.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3render.cpp")
+  
+  gl3shader.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3shader.cpp")
+  
+  gl3skin.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/gl/gl3skin.cpp")
+  
+  wdgl.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(141,22): warning C4244: =: преобразование "rw::float32" в "rw::int8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(143,22): warning C4244: =: преобразование "rw::float32" в "rw::int8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(150,20): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(152,20): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(160,23): warning C4244: =: преобразование "rw::float32" в "rw::int16", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(162,23): warning C4244: =: преобразование "rw::float32" в "rw::int16", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(170,23): warning C4244: =: преобразование "rw::float32" в "rw::uint16", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(172,23): warning C4244: =: преобразование "rw::float32" в "rw::uint16", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(502,24): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(503,24): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(504,24): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\wdgl.cpp(505,24): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+  hanim.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/hanim.cpp")
+  
+  image.cpp
+  light.cpp
+  Создание кода...
+  Компиляция...
+  lodepng.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\lodepng\lodepng.cpp(729,28): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\lodepng\lodepng.cpp(753,36): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\lodepng\lodepng.cpp(770,37): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+  matfx.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/matfx.cpp")
+  
+  pipeline.cpp
+  plg.cpp
+  png.cpp
+  prim.cpp
+  pds.cpp
+  ps2.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2.cpp(425,17): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2.cpp(426,17): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2.cpp(427,17): warning C4244: =: преобразование "rw::float32" в "rw::uint8", возможна потеря данных
+  ps2device.cpp
+  ps2matfx.cpp
+  ps2raster.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(491,37): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(532,41): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(567,41): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(608,5): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(613,5): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(617,44): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(622,20): warning C4244: инициализация: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(628,44): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(639,32): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(737,39): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(914,36): warning C4244: =: преобразование "rw::uint64" в "rw::int32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(955,30): warning C4244: аргумент: преобразование "rw::int64" в "rw::int32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1089,19): warning C4244: аргумент: преобразование "rw::int64" в "rw::int32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1205,33): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1206,56): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1209,33): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1210,56): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1212,29): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1213,50): warning C4244: =: преобразование "rw::uint64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1284,29): warning C4244: =: преобразование "rw::int64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1285,37): warning C4244: =: преобразование "rw::int64" в "rw::uint32", возможна потеря данных
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1907,9): warning C4477: "printf": в строке форматирования "%016lX" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "rw::uint64"
+      C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1907,9):
+      рекомендуется использовать "%llX" в строке форматирования
+      C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1907,9):
+      рекомендуется использовать "%I64X" в строке форматирования
+  
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1927,9): warning C4477: "printf": в строке форматирования "%016lX" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "rw::uint64"
+      C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1927,9):
+      рекомендуется использовать "%llX" в строке форматирования
+      C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\ps2\ps2raster.cpp(1927,9):
+      рекомендуется использовать "%I64X" в строке форматирования
+  
+  ps2skin.cpp
+  raster.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/raster.cpp")
+  
+  render.cpp
+  skin.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/skin.cpp")
+  
+  texture.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../vendor/librw/src/texture.cpp")
+  
+  tga.cpp
+  tristrip.cpp
+  userdata.cpp
+  uvanim.cpp
+  Создание кода...
+  Компиляция...
+  world.cpp
+  Создание кода...

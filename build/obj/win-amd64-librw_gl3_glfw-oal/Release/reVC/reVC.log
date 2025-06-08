@@ -1,0 +1,975 @@
+﻿  C:\Program Files\Git\cmd\git.exe
+  AnimBlendAssocGroup.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendAssocGroup.cpp")
+  
+  AnimBlendAssociation.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendAssociation.cpp")
+  
+  AnimBlendClumpData.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendClumpData.cpp")
+  
+  AnimBlendHierarchy.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendHierarchy.cpp")
+  
+  AnimBlendNode.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendNode.cpp")
+  
+  AnimBlendSequence.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimBlendSequence.cpp")
+  
+  AnimManager.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/AnimManager.cpp")
+  
+  Bones.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/Bones.cpp")
+  
+  CutsceneMgr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/CutsceneMgr.cpp")
+  
+  FrameUpdate.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/FrameUpdate.cpp")
+  
+  RpAnimBlend.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/animation/RpAnimBlend.cpp")
+  
+  AudioCollision.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/AudioCollision.cpp")
+  
+  AudioLogic.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/AudioLogic.cpp")
+  
+  AudioManager.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/AudioManager.cpp")
+  
+  AudioScriptObject.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/AudioScriptObject.cpp")
+  
+  DMAudio.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/DMAudio.cpp")
+  
+  MusicManager.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/MusicManager.cpp")
+  
+  PoliceRadio.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/PoliceRadio.cpp")
+  
+  eax-util.cpp
+  aldlist.cpp
+  Создание кода...
+  Компиляция...
+  channel.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/oal/channel.cpp")
+  
+  oal_utils.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/oal/oal_utils.cpp")
+  
+  stream.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/oal/stream.cpp")
+  
+  sampman_miles.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/sampman_miles.cpp")
+  
+  sampman_null.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/sampman_null.cpp")
+  
+  sampman_oal.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/audio/sampman_oal.cpp")
+  
+  Building.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/buildings/Building.cpp")
+  
+  Treadable.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/buildings/Treadable.cpp")
+  
+  ColBox.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColBox.cpp")
+  
+  ColLine.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColLine.cpp")
+  
+  ColModel.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColModel.cpp")
+  
+  ColPoint.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColPoint.cpp")
+  
+  ColSphere.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColSphere.cpp")
+  
+  ColStore.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColStore.cpp")
+  
+  ColTriangle.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/ColTriangle.cpp")
+  
+  Collision.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/Collision.cpp")
+  
+  TempColModels.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/TempColModels.cpp")
+  
+  VuCollision.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/collision/VuCollision.cpp")
+  
+  AutoPilot.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/AutoPilot.cpp")
+  
+  Bridge.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Bridge.cpp")
+  
+  Создание кода...
+  Компиляция...
+  CarAI.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/CarAI.cpp")
+  
+  CarCtrl.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/CarCtrl.cpp")
+  
+  Curves.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Curves.cpp")
+  
+  Darkel.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Darkel.cpp")
+  
+  GameLogic.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/GameLogic.cpp")
+  
+  Garages.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Garages.cpp")
+  
+  NameGrid.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/NameGrid.cpp")
+  
+  OnscreenTimer.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/OnscreenTimer.cpp")
+  
+  PathFind.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/PathFind.cpp")
+  
+  Phones.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Phones.cpp")
+  
+  Pickups.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Pickups.cpp")
+  
+  PowerPoints.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/PowerPoints.cpp")
+  
+  Record.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Record.cpp")
+  
+  Remote.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Remote.cpp")
+  
+  Replay.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Replay.cpp")
+  
+  Restart.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Restart.cpp")
+  
+  RoadBlocks.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/RoadBlocks.cpp")
+  
+  SceneEdit.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/SceneEdit.cpp")
+  
+  Script.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script.cpp")
+  
+  Script2.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script2.cpp")
+  
+  Создание кода...
+  Компиляция...
+  Script3.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script3.cpp")
+  
+  Script4.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script4.cpp")
+  
+  Script5.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script5.cpp")
+  
+  Script6.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script6.cpp")
+  
+  Script7.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script7.cpp")
+  
+  Script8.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/Script8.cpp")
+  
+  SetPieces.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/SetPieces.cpp")
+  
+  TrafficLights.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/control/TrafficLights.cpp")
+  
+  Accident.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Accident.cpp")
+  
+  AnimViewer.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/AnimViewer.cpp")
+  
+  Cam.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Cam.cpp")
+  
+  Camera.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Camera.cpp")
+  
+  CdStream.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/CdStream.cpp")
+  
+  CdStreamPosix.cpp
+  Clock.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Clock.cpp")
+  
+  ControllerConfig.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/ControllerConfig.cpp")
+  
+  Debug.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Debug.cpp")
+  
+  Directory.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Directory.cpp")
+  
+  EventList.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/EventList.cpp")
+  
+  FileLoader.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/FileLoader.cpp")
+  
+  Создание кода...
+  Компиляция...
+  FileMgr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/FileMgr.cpp")
+  
+  Fire.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Fire.cpp")
+  
+  FrontEndControls.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/FrontEndControls.cpp")
+  
+  Frontend.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Frontend.cpp")
+  
+  Frontend_PS2.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Frontend_PS2.cpp")
+  
+  Game.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Game.cpp")
+  
+  IniFile.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/IniFile.cpp")
+  
+  Lists.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Lists.cpp")
+  
+  MenuScreens.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/MenuScreens.cpp")
+  
+  MenuScreensCustom.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/MenuScreensCustom.cpp")
+  
+  Pad.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Pad.cpp")
+  
+  Placeable.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Placeable.cpp")
+  
+  PlayerInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/PlayerInfo.cpp")
+  
+  Pools.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Pools.cpp")
+  
+  Profile.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Profile.cpp")
+  
+  Radar.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Radar.cpp")
+  
+  Range2D.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Range2D.cpp")
+  
+  Range3D.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Range3D.cpp")
+  
+  References.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/References.cpp")
+  
+  Ropes.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Ropes.cpp")
+  
+  Создание кода...
+  Компиляция...
+  Stats.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Stats.cpp")
+  
+  Streaming.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Streaming.cpp")
+  
+  SurfaceTable.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/SurfaceTable.cpp")
+  
+  TimeStep.cpp
+  Timer.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Timer.cpp")
+  
+  User.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/User.cpp")
+  
+  Wanted.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Wanted.cpp")
+  
+  World.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/World.cpp")
+  
+  ZoneCull.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/ZoneCull.cpp")
+  
+  Zones.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/Zones.cpp")
+  
+  main.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/main.cpp")
+  
+  obrstr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/obrstr.cpp")
+  
+  re3.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/re3.cpp")
+  
+  timebars.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/core/timebars.cpp")
+  
+  Dummy.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/entities/Dummy.cpp")
+  
+  Entity.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/entities/Entity.cpp")
+  
+  Physical.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/entities/Physical.cpp")
+  
+  GitSHA1.cpp
+  custompipes.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/custompipes.cpp")
+  
+  custompipes_d3d9.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/custompipes_d3d9.cpp")
+  
+  Создание кода...
+  Компиляция...
+  custompipes_gl.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/custompipes_gl.cpp")
+  
+  debugmenu.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/debugmenu.cpp")
+  
+  frontendoption.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/frontendoption.cpp")
+  
+  postfx.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/postfx.cpp")
+  
+  screendroplets.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/extras/screendroplets.cpp")
+  
+  fake.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/fakerw/fake.cpp")
+  
+  Matrix.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/math/Matrix.cpp")
+  
+  Quaternion.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/math/Quaternion.cpp")
+  
+  Rect.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/math/Rect.cpp")
+  
+  Vector.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/math/Vector.cpp")
+  
+  math.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/math/math.cpp")
+  
+  BaseModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/BaseModelInfo.cpp")
+  
+  ClumpModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/ClumpModelInfo.cpp")
+  
+  ModelIndices.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/ModelIndices.cpp")
+  
+  ModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/ModelInfo.cpp")
+  
+  PedModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/PedModelInfo.cpp")
+  
+  SimpleModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/SimpleModelInfo.cpp")
+  
+  TimeModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/TimeModelInfo.cpp")
+  
+  VehicleModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/VehicleModelInfo.cpp")
+  
+  WeaponModelInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/modelinfo/WeaponModelInfo.cpp")
+  
+  Создание кода...
+  Компиляция...
+  CutsceneObject.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/CutsceneObject.cpp")
+  
+  DummyObject.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/DummyObject.cpp")
+  
+  Object.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/Object.cpp")
+  
+  ObjectData.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/ObjectData.cpp")
+  
+  ParticleObject.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/ParticleObject.cpp")
+  
+  Projectile.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/Projectile.cpp")
+  
+  Stinger.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/objects/Stinger.cpp")
+  
+  CivilianPed.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/CivilianPed.cpp")
+  
+  CopPed.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/CopPed.cpp")
+  
+  EmergencyPed.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/EmergencyPed.cpp")
+  
+  Gangs.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/Gangs.cpp")
+  
+  Ped.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/Ped.cpp")
+  
+  PedAI.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedAI.cpp")
+  
+  PedAttractor.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedAttractor.cpp")
+  
+  PedChat.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedChat.cpp")
+  
+  PedDebug.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedDebug.cpp")
+  
+  PedFight.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedFight.cpp")
+  
+  PedIK.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedIK.cpp")
+  
+  PedPlacement.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedPlacement.cpp")
+  
+  PedRoutes.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedRoutes.cpp")
+  
+  Создание кода...
+  Компиляция...
+  PedType.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PedType.cpp")
+  
+  PlayerPed.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/PlayerPed.cpp")
+  
+  Population.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/peds/Population.cpp")
+  
+  Antennas.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Antennas.cpp")
+  
+  Clouds.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Clouds.cpp")
+  
+  Console.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Console.cpp")
+  
+  Coronas.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Coronas.cpp")
+  
+  Credits.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Credits.cpp")
+  
+  CutsceneShadow.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/CutsceneShadow.cpp")
+  
+  Draw.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Draw.cpp")
+  
+  Fluff.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Fluff.cpp")
+  
+  Font.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Font.cpp")
+  
+  Glass.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Glass.cpp")
+  
+  Hud.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Hud.cpp")
+  
+  Instance.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Instance.cpp")
+  
+  Lines.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Lines.cpp")
+  
+  MBlur.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/MBlur.cpp")
+  
+  Occlusion.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Occlusion.cpp")
+  
+  Particle.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Particle.cpp")
+  
+  ParticleMgr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/ParticleMgr.cpp")
+  
+  Создание кода...
+  Компиляция...
+  PlayerSkin.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/PlayerSkin.cpp")
+  
+  PointLights.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/PointLights.cpp")
+  
+  RenderBuffer.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/RenderBuffer.cpp")
+  
+  Renderer.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Renderer.cpp")
+  
+  Rubbish.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Rubbish.cpp")
+  
+  ShadowCamera.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/ShadowCamera.cpp")
+  
+  Shadows.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Shadows.cpp")
+  
+  Skidmarks.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Skidmarks.cpp")
+  
+  SpecialFX.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/SpecialFX.cpp")
+  
+  Sprite.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Sprite.cpp")
+  
+  Sprite2d.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Sprite2d.cpp")
+  
+  TexList.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/TexList.cpp")
+  
+  Timecycle.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Timecycle.cpp")
+  
+  VarConsole.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/VarConsole.cpp")
+  
+  WaterCannon.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/WaterCannon.cpp")
+  
+  WaterCreatures.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/WaterCreatures.cpp")
+  
+  WaterLevel.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/WaterLevel.cpp")
+  
+  Weather.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/Weather.cpp")
+  
+  WindModifiers.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/render/WindModifiers.cpp")
+  
+  ClumpRead.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/ClumpRead.cpp")
+  
+  Создание кода...
+  Компиляция...
+  Lights.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/Lights.cpp")
+  
+  MemoryHeap.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/MemoryHeap.cpp")
+  
+  MemoryMgr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/MemoryMgr.cpp")
+  
+  NodeName.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/NodeName.cpp")
+  
+  RwHelper.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/RwHelper.cpp")
+  
+  RwMatFX.cpp
+  RwPS2AlphaTest.cpp
+  TexRead.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/TexRead.cpp")
+  
+  TexturePools.cpp
+  TxdStore.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/TxdStore.cpp")
+  
+  VisibilityPlugins.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/rw/VisibilityPlugins.cpp")
+  
+  Date.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/save/Date.cpp")
+  
+  GenericGameStorage.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/save/GenericGameStorage.cpp")
+  
+  MemoryCard.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/save/MemoryCard.cpp")
+  
+  PCSave.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/save/PCSave.cpp")
+  
+  crossplatform.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/skel/crossplatform.cpp")
+  
+  events.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/skel/events.cpp")
+  
+  glfw.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/skel/glfw/glfw.cpp")
+  
+  skeleton.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/skel/skeleton.cpp")
+  
+  win.cpp
+  Создание кода...
+  Компиляция...
+  Messages.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/text/Messages.cpp")
+  
+  Pager.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/text/Pager.cpp")
+  
+  Text.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/text/Text.cpp")
+  
+  Automobile.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Automobile.cpp")
+  
+  Bike.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Bike.cpp")
+  
+  Boat.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Boat.cpp")
+  
+  CarGen.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/CarGen.cpp")
+  
+  Cranes.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Cranes.cpp")
+  
+  DamageManager.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/DamageManager.cpp")
+  
+  Door.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Door.cpp")
+  
+  Floater.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Floater.cpp")
+  
+  HandlingMgr.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/HandlingMgr.cpp")
+  
+  Heli.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Heli.cpp")
+  
+  Plane.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Plane.cpp")
+  
+  Train.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Train.cpp")
+  
+  Transmission.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Transmission.cpp")
+  
+  Vehicle.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/vehicles/Vehicle.cpp")
+  
+  BulletInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/BulletInfo.cpp")
+  
+  Explosion.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/Explosion.cpp")
+  
+  ProjectileInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/ProjectileInfo.cpp")
+  
+  Создание кода...
+  Компиляция...
+  ShotInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/ShotInfo.cpp")
+  
+  Weapon.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/Weapon.cpp")
+  
+  WeaponEffects.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/WeaponEffects.cpp")
+  
+  WeaponInfo.cpp
+C:\Users\mtayk\Desktop\re3-miami\re3\vendor\librw\src\gl\rwgl3.h(6,10): error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  (компиляция исходного файла "../src/weapons/WeaponInfo.cpp")
+  
+  Создание кода...
