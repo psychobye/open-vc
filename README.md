@@ -1,4 +1,6 @@
-![open-vc logo](https://github.com/psychobye/open-vc/blob/main/logo.png)
+<p align="center">
+  <img src="https://github.com/psychobye/open-vc/blob/main/logo.png" alt="open-vc logo" width="150" />
+</p>
 
 # open-vc
 
